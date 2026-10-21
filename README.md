@@ -15,6 +15,6 @@
     * There is no masking for declines/misc at the moment so it's just one list of URLs
 * **REPEAT THIS PROCESS FOR DECLINE AND MISC WEBHOOKS (USING THE SPECIFIC CODE BELOW**
 
-[Code for Success Webhook](./Success_Webhook_Code.md)
-[Code for Fail Webhook](./Fail_Webhook_Code.md)
-[Code for Misc Webhook](./Misc_Webhook_Code.md)
+[Code for Success Webhook](./Success_Webhook_Code.md)  
+[Code for Fail Webhook](./Fail_Webhook_Code.md)  
+[Code for Misc Webhook](./Misc_Webhook_Code.md)   
