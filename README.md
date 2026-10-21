@@ -13,6 +13,7 @@
 * Replace the URLs in the top of the code with your webhook URLs
     * Masked means it will hide e-mail, order number etc.
     * There is no masking for declines/misc at the moment so it's just one list of URLs
+* Click `Deploy` (you have to do this anytime you change the code)
 * **REPEAT THIS PROCESS TO CREATE NEW APPS FOR DECLINE AND MISC WEBHOOKS (USING THE SPECIFIC CODE BELOW)**
 
 [Code for Success Webhook](./Success_Webhook_Code.md)  
