@@ -6,7 +6,7 @@
 * You should receive a success message in your webhooks
 
 ```
-curl -X POST "https://webhook-fanout-success.jay-weier.workers.dev/" \
+curl -X POST "https://webhook-fanout-success.jayweier.workers.dev/" \
   -H "Content-Type: application/json" \
   --data-binary '{
     "username": "Valor 3.0",
