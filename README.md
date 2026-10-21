@@ -24,3 +24,7 @@
 * Go back to `Compute` -> `Workers & Pages`
 * Each Worker will have it's own URL that ends in `.workers.dev`
 * Copy each one of those into Valor and test Valor
+
+## Test Success Webhook
+
+* Follow the steps [here](./Test_with_Example_Success_Message.md)
