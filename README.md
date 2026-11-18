@@ -16,7 +16,7 @@
 * Click `Deploy` (you have to do this anytime you change the code)
 * **REPEAT THIS PROCESS TO CREATE NEW APPS FOR DECLINE AND MISC WEBHOOKS (USING THE SPECIFIC CODE BELOW)**
 
-[Code for Success Webhook](./Success_Webhook_Code.md)  
+[Code for Success Webhook](./success-worker.js)
 [Code for Fail Webhook](./Fail_Webhook_Code.md)  
 [Code for Misc Webhook](./Misc_Webhook_Code.md)   
 
